@@ -11,6 +11,7 @@
  * @link       http://github.com/jdorn/sql-formatter
  * @version    1.2.17
  */
+namespace SqlFormatter;
 class SqlFormatter
 {
     // Constants for token types

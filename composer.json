@@ -20,7 +20,9 @@
         }
     ],
     "autoload": {
-        "classmap": ["lib"]
+        "psr-0": {
+             "SqlFormatter": "lib/"
+        }
     },
     "extra": {
         "branch-alias": {
